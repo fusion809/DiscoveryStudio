@@ -1,4 +1,4 @@
-for i in {Rivaroxaban,Sertraline}/*.png
+for i in */*.png
 do
   optipng -o7 "$i"
 done
