@@ -1,0 +1,152 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_PEPCIT10
+#This CIF has been generated from an entry in the Cambridge Structural Database
+_database_code_depnum_ccdc_archive 'CCDC 1230940'
+_database_code_CSD               PEPCIT10
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1007/BF01262807 1979
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2016-04-29 downloaded from the CCDC.
+;
+_database_code_NBS               521554
+_chemical_name_common            'Fentanyl citrate toluene solvate'
+_chemical_formula_moiety         'C22 H29 N2 O1 1+,C6 H7 O7 1-,C7 H8'
+_chemical_name_systematic        
+'N-(1-(2-Phenylethyl)-4-piperidinylium)-N-phenyl-propanamide-citrate toluene solvate'
+_chemical_properties_biological  'narcotic analgesic agent'
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    1.234
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.092
+_refine_ls_wR_factor_gt          0.092
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   18.292(6)
+_cell_length_b                   9.825(4)
+_cell_length_c                   19.479(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 107.43(3)
+_cell_angle_gamma                90
+_cell_volume                     3340
+_exptl_crystal_colour            colorless
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.34420 0.25340 -0.06540
+C2 C -0.31090 0.25120 -0.12060
+C3 C -0.23160 0.23440 -0.10470
+C4 C -0.18530 0.22840 -0.03320
+C5 C -0.22110 0.22970 0.02090
+C6 C -0.29660 0.24440 0.00600
+C7 C -0.09930 0.20090 -0.01760
+C8 C -0.05370 0.29470 0.03910
+N1 N 0.03180 0.28840 0.04760
+C9 C 0.06450 0.15060 0.07700
+C10 C 0.14920 0.14370 0.08530
+C11 C 0.19250 0.26120 0.13330
+C12 C 0.15850 0.39710 0.10320
+C13 C 0.07210 0.39960 0.09710
+N2 N 0.27520 0.25100 0.14090
+C14 C 0.30050 0.25210 0.07810
+C15 C 0.31050 0.13240 0.04710
+C16 C 0.33110 0.13550 -0.01510
+C17 C 0.34060 0.25540 -0.04810
+C18 C 0.33020 0.37490 -0.01710
+C19 C 0.30860 0.37400 0.04630
+C20 C 0.32870 0.24130 0.20890
+C21 C 0.41000 0.24620 0.21340
+C22 C 0.46240 0.24290 0.27900
+O1 O 0.30510 0.24220 0.26160
+H1 H -0.40540 0.26310 -0.08000
+H2 H -0.34340 0.26080 -0.17510
+H3 H -0.20480 0.22630 -0.14620
+H4 H -0.18680 0.21920 0.07620
+H5 H -0.32200 0.24690 0.04800
+H6 H -0.08780 0.09780 -0.00240
+H7 H -0.08450 0.21540 -0.06650
+H8 H -0.07260 0.39640 0.02710
+H9 H -0.06230 0.26890 0.08930
+H10 H 0.05510 0.13330 0.12660
+H11 H 0.03460 0.07340 0.04030
+H12 H 0.17210 0.04850 0.10760
+H13 H 0.15820 0.15060 0.03350
+H14 H 0.18620 0.24940 0.18510
+H15 H 0.18800 0.47670 0.13800
+H16 H 0.16740 0.41280 0.05240
+H17 H 0.06330 0.38450 0.14740
+H18 H 0.04630 0.49290 0.07550
+H19 H 0.30050 0.03810 0.06970
+H20 H 0.34060 0.04100 -0.03770
+H21 H 0.35670 0.25260 -0.09570
+H22 H 0.33710 0.46840 -0.04280
+H23 H 0.29750 0.46820 0.06980
+H24 H 0.42290 0.15350 0.18660
+H25 H 0.42140 0.32780 0.18400
+H37 H 0.03950 0.30690 0.00000
+C23 C 0.15200 0.16970 -0.15650
+C24 C 0.09910 0.29540 -0.18160
+C25 C 0.15110 0.41940 -0.17590
+C26 C 0.10780 0.03840 -0.17410
+C27 C 0.04050 0.30670 -0.13900
+C28 C 0.10530 0.53690 -0.21340
+O2 O 0.05860 0.27930 -0.25690
+O3 O 0.06870 -0.00700 -0.13780
+O4 O 0.11260 -0.02420 -0.23030
+O5 O 0.06890 0.33590 -0.07280
+O6 O -0.02830 0.28620 -0.16970
+O7 O 0.05610 0.58900 -0.19270
+O8 O 0.11700 0.58000 -0.27280
+H26 H 0.19650 0.17120 -0.18080
+H27 H 0.17750 0.17580 -0.09990
+H28 H 0.17720 0.44410 -0.12200
+H29 H 0.19410 0.39840 -0.20090
+H30 H 0.06080 0.19750 -0.26510
+H31 H 0.11270 -0.08830 -0.27000
+H32 H 0.15780 0.57050 -0.28510
+C29 C 0.33710 0.84040 0.32050
+C30 C 0.40220 0.87810 0.35890
+C31 C 0.44900 0.75780 0.39010
+C32 C 0.42080 0.63420 0.37140
+C33 C 0.34380 0.61130 0.32570
+C34 C 0.30570 0.71520 0.30630
+C35 C 0.47560 0.53150 0.41070
+H33 H 0.29730 0.91460 0.28960
+H34 H 0.51100 0.76420 0.43480
+H35 H 0.31870 0.51410 0.30500
+H36 H 0.24160 0.70590 0.27700
+
+#END

@@ -1,0 +1,1 @@
+Canfield, D., Barrick, J. & Giessen, B. C. (1979). <i>Acta Cryst.</i> B<b>35</b>, 2806--2809.

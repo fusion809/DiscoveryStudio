@@ -1,0 +1,137 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_CANDOM10
+#This CIF has been generated from an entry in the Cambridge Structural Database
+_database_code_depnum_ccdc_archive 'CCDC 1120112'
+_database_code_CSD               CANDOM10
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1107/S0567740877010577 1977
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2016-04-29 downloaded from the CCDC.
+;
+_database_code_NBS               504851
+_chemical_formula_moiety         'C21 H30 O2'
+_chemical_name_systematic        Cannabidiol
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      295
+_exptl_crystal_density_diffrn    1.075
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.0752
+_refine_ls_wR_factor_gt          0.0752
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21'
+_symmetry_Int_Tables_number      4
+_space_group_name_Hall           'P 2yb'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,-z
+_cell_length_a                   10.617(4)
+_cell_length_b                   10.649(5)
+_cell_length_c                   17.266(6)
+_cell_angle_alpha                90
+_cell_angle_beta                 95.30(4)
+_cell_angle_gamma                90
+_cell_volume                     1943.76
+_chemical_melting_point          66-7deg.C
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.09430 0.23370 0.45830
+C2 C -0.04390 0.22080 0.39060
+C3 C 0.09540 0.22900 0.37970
+C4 C 0.17210 0.27660 0.45560
+C5 C 0.12370 0.21240 0.52580
+C6 C -0.01420 0.24930 0.53300
+C7 C -0.23620 0.22990 0.46190
+C8 C 0.31280 0.26140 0.45330
+C9 C 0.38970 0.36220 0.45560
+C10 C 0.36510 0.13120 0.44980
+C11 C 0.18600 0.26610 0.25080
+C12 C 0.11550 0.31000 0.30960
+C13 C 0.06590 0.42890 0.30010
+C14 C 0.08320 0.50380 0.23590
+C15 C 0.15680 0.45850 0.17880
+C16 C 0.20440 0.33950 0.18640
+C17 C 0.17930 0.53800 0.10870
+C18 C 0.06670 0.57600 0.05550
+C19 C -0.01960 0.47970 0.01800
+C20 C -0.13440 0.53010 -0.03260
+C21 C -0.19740 0.42050 -0.07550
+O1 O 0.23510 0.14830 0.25810
+O2 O -0.00570 0.48210 0.35500
+H1 H 0.04030 0.59570 0.23020
+H2 H 0.25740 0.30170 0.14130
+H3 H 0.15730 0.37650 0.46050
+H4 H 0.12980 0.11190 0.51890
+H5 H 0.18100 0.24080 0.57780
+H6 H -0.01720 0.34640 0.55070
+H7 H -0.05140 0.19070 0.57660
+H8 H -0.10810 0.20310 0.33950
+H9 H 0.13060 0.13630 0.36840
+H10 H 0.24170 0.48590 0.07460
+H11 H 0.22580 0.62310 0.13010
+H12 H 0.10200 0.62960 0.00900
+H13 H 0.00980 0.63590 0.08880
+C22 C -0.42940 -0.07850 0.03280
+C23 C -0.38190 0.02790 0.05910
+C24 C -0.29380 0.04500 0.13110
+C25 C -0.29470 -0.07290 0.18440
+C26 C -0.28420 -0.18760 0.13370
+C27 C -0.39550 -0.20100 0.07370
+C28 C -0.51860 -0.08590 -0.04300
+C29 C -0.20070 -0.06430 0.25430
+C30 C -0.24010 -0.04490 0.32650
+C31 C -0.05830 -0.07700 0.23850
+C32 C -0.22930 0.25730 0.18800
+C33 C -0.32040 0.16560 0.17320
+C34 C -0.43630 0.19060 0.20080
+C35 C -0.45770 0.29290 0.24370
+C36 C -0.36460 0.38420 0.25920
+C37 C -0.25160 0.36600 0.22890
+C38 C -0.38770 0.50090 0.30610
+C39 C -0.50110 0.57600 0.27480
+C40 C -0.52170 0.69030 0.32370
+C41 C -0.64280 0.75540 0.28760
+C42 C -0.67980 0.87190 0.32620
+O3 O -0.11210 0.23700 0.16030
+O4 O -0.53790 0.10870 0.18440
+H14 H -0.54840 0.30430 0.26640
+H15 H -0.17880 0.43690 0.23690
+H16 H -0.38290 -0.07980 0.21060
+H17 H -0.27880 -0.27000 0.17030
+H18 H -0.19910 -0.18000 0.10430
+H19 H -0.37260 -0.26940 0.03100
+H20 H -0.47610 -0.23330 0.10200
+H21 H -0.40870 0.11120 0.02590
+H22 H -0.19890 0.05410 0.11400
+H23 H -0.30510 0.56020 0.30690
+H24 H -0.40150 0.47250 0.36480
+H25 H -0.48720 0.60630 0.21650
+H26 H -0.58400 0.51700 0.27330
+
+#END

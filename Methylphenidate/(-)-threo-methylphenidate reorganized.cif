@@ -1,0 +1,81 @@
+#=====================================================================
+# X-ray crystallography data from Pharma Res, 1995
+#---------------------------------------------------------------------
+
+data_methylphenidate
+
+_cell_length_a                9.401(3)
+_cell_length_b                7.3053(7)
+_cell_length_c                11.113(3)
+_cell_angle_alpha             90
+_cell_angle_beta              109.260(2)
+_cell_angle_gamma             90
+_cell_formula_units_Z         2
+_cell_volume                  720.5(3)
+_cell_measurement_temperature 295.15
+_cell_measurement_reflns_used 1797
+
+_chemical_formula_sum         'C14 H20 Cl N O2'
+_chemical_formula_weight      269.77
+_chemical_name_systematic     'methyl (2S)-2-phenyl-2-[(2S)-piperidin-2-yl]acetate;hydrochloride'
+_chemical_identifier_inchi    'InChI=1S/C14H19NO2.ClH/c1-17-14(16)13(11-7-3-2-4-8-11)12-9-5-6-10-15-12;/h2-4,7-8,12-13,15H,5-6,9-10H2,1H3;1H/t12-,13-;/m0./s1'
+_chemical_identifier_inchi_key 'JUMYIBMBTDDLNG-QNTKWALQSA-N'
+
+_refine_ls_R_factor_gt        0.070
+
+_space_group_crystal_system   monoclinic
+_space_group_name_H-M_alt     'P 21'
+_space_group_IT_number        4
+
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, y+1/2, -z'
+
+loop_
+_atom_site_label
+_atom_site_chemical_conn_number
+_atom_site_cartn_x
+_atom_site_cartn_y
+_atom_site_cartn_z
+_atom_site_adp_type
+_atom_site_B_iso_or_equiv
+_atom_site_type_symbol
+N1   1  -0.8852(9) 0.120(1)   -1.0300(8) Biso 3.1(2)   N
+H1a  2  -0.965     0.0850     -1.001     .      .      H
+H1b  3  -0.880     -0.080     -1.033     .      .      H
+C2   4  -0.739(1)  0.049(2)   -0.940(1)  Biso 3.9(2)   C
+H2   5  -0.746     -0.080     -0.936     .      .      H
+C3   6  -0.614(1)  0.092(1)   -0.988(1)  Biso 5.1(3)   C
+H3a  7  -0.525     0.0380     -0.933     .      .      H
+H3b  8  -0.603     0.2210     -0.990     .      .      H
+C4   9  -0.640(1)  0.021(2)   -1.122(1)  Biso 5.0(3)   C
+H4a  10 -0.639     -0.110     -1.119     .      .      H
+H4b  11 -0.561     0.0640     -1.150     .      .      H
+C5   12 -0.792(2)  0.086(1)   -1.213(1)  Biso 5.3(3)   C
+H5a  13 -0.786     0.2150     -1.225     .      .      H
+H5b  14 -0.812     0.0250     -1.291     .      .      H
+C6   15 -0.915(1)  0.049(2)   -1.160(1)  Biso 4.3(2)   C
+H6a  16 -1.004     0.1050     -1.214     .      .      H
+H6b  17 -0.928     -0.080     -1.159     .      .      H
+C7   18 -0.721(1)  0.124(1)   -0.809(1)  Biso 3.3(2)   C
+H7   19 -0.737     0.2520     -0.817     .      .      H
+C8   20 -0.834(1)  0.051(2)   -0.7527(9) Biso 3.8(2)   C
+O9   21 -0.889(1)  0.172(1)   -0.6908(9) Biso 4.9(2)   O
+C10  22 -0.998(2)  0.113(2)   -0.634(1)  Biso 5.8(4)   C
+H10a 23 -1.028     0.2150     -0.594     .      .      H
+H10b 24 -0.956     0.0210     -0.572     .      .      H
+H10c 25 -1.085     0.0650     -0.698     .      .      H
+C11  26 -0.563(1)  0.093(1)   -0.709(1)  Biso 3.9(3)   C
+C12  27 -0.509(2)  -0.091(2)  -0.681(1)  Biso 5.6(3)   C
+H12  28 -0.566     -0.192     -0.726     .      .      H
+C13  29 -0.376(2)  -0.114(3)  -0.590(2)  Biso 7.2(4)   C
+H13  30 -0.343     -0.238     -0.572     .      .      H
+C14  31 -0.290(2)  0.009(6)   -0.522(2)  Biso 11.3(8)  C
+H14  32 -0.1960    -0.018     -0.460     .      .      H
+C15  33 -0.343(2)  0.204(4)   -0.548(2)  Biso 9.0(6)   C
+H15  34 -0.284     0.3020     -0.501     .      .      H
+C16  35 -0.479(2)  0.242(2)   -0.643(1)  Biso 5.9(3)   C
+H16  36 -0.515     0.3640     -0.664     .      .      H
+O3   37 -0.871(1)  -0.1124(9) -0.7590(9) Biso 5.7(2)   O
+Cl   38 -0.8105(3) 0.5484     -1.0089(3) Biso 4.72(6)  Cl
